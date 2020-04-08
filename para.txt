@@ -1,0 +1,3 @@
+https://launchpad.support.sap.com/#/softwarecenter/search/NWCEIDE05
+
+service/protectedwebmethods = DEFAULT
